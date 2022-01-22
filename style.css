@@ -1,0 +1,14 @@
+.carousel-bg{
+    background-color: #fceae8;
+}
+.text{
+    color: #ff2379;
+}
+.last{
+    background-color: #fceae8;
+}
+.last-bg{
+    background-color: #ff2379;
+    border: none;
+    padding: 9px 25px;
+}
